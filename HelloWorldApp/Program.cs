@@ -12,6 +12,7 @@ namespace HelloWorldApp
         {
             Console.WriteLine("Hello Mars!");
             //More Code was added in VS
+            //Another code change for VS
         }
     }
 }
