@@ -10,7 +10,7 @@ namespace HelloWorldApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Jupiter!");
+            Console.WriteLine("Hello Mars!");
         }
     }
 }
