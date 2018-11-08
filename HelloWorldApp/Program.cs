@@ -11,7 +11,7 @@ namespace HelloWorldApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Mars!");
-            //Code was added in VS
+            //More Code was added in VS
         }
     }
 }
